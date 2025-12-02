@@ -1,0 +1,11 @@
+# Ignorar carpeta de compilados de Eclipse
+bin/
+*.class
+
+# (Opcional) Ignorar configuraciones locales de usuario
+.metadata/
+
+.settings/
+.classpath
+.project
+tests/
